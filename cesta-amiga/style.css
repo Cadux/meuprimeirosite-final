@@ -1,0 +1,91 @@
+html,
+body{
+    margin: 0;
+}
+/*Menu
+header{
+    background-color: black;
+    color: white;
+    height: 60px;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+}
+.logo{
+    width: 96px;
+    margin: 0;
+    position: absolute;
+    top: -9px;
+    margin-left: 5%;
+}
+.menu{
+    float: right;
+    margin-right: 5%;
+    list-style: none;
+}
+li{
+    float: left;
+    padding: 15px 40px;
+}
+/*Capa*/
+.imagem_fundo{
+    background: url(visual/fundo1.jpg);
+    height: 100vh;
+    color:white;
+    text-align: center;
+
+}
+
+.titulo{
+   padding: 1% 1% 1% 1%;
+}
+
+   
+
+
+.parceiro{
+    
+   
+    border: solid 1px red;
+}
+/*Seções*/
+section{
+    float: left;
+    padding: 20px;
+}
+.coluna{
+    float: left;
+    padding: 0 5%;
+    position: relative;
+}
+.dois{
+    width: 40%;
+}
+.tres{
+    width: 29%;
+    height: 210px;
+    padding: 2% 2%;
+}
+.img_projetos{
+    height: 100%;
+    width: 100%;
+    
+}
+.resultados{
+    width: 6%;
+}
+.icon{
+    padding: 2% 47%;
+}
+.botao{
+    padding: 0 40%;
+}
+/*Elementos de texto*/
+.centro{
+    text-align: center;
+}
+.justificado{
+    text-align: justify;
+}
+
+
